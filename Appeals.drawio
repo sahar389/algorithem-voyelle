@@ -80,10 +80,10 @@
         <mxCell id="nWAmCEe8qvfFnoDxP4SZ-28" value="Application service&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nWAmCEe8qvfFnoDxP4SZ-8">
           <mxGeometry x="495" y="227" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nWAmCEe8qvfFnoDxP4SZ-29" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;strokeWidth=1.5;arcSize=16;fillColor=#EBF8FF;perimeterSpacing=0;absoluteArcSize=1;" vertex="1" parent="nWAmCEe8qvfFnoDxP4SZ-8">
+        <mxCell id="nWAmCEe8qvfFnoDxP4SZ-29" value="Use case logic&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;strokeWidth=1.5;arcSize=16;fillColor=#EBF8FF;perimeterSpacing=0;absoluteArcSize=1;" vertex="1" parent="nWAmCEe8qvfFnoDxP4SZ-8">
           <mxGeometry x="460" y="265" width="131" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nWAmCEe8qvfFnoDxP4SZ-30" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;strokeWidth=1.5;arcSize=16;fillColor=#EBF8FF;perimeterSpacing=0;absoluteArcSize=1;" vertex="1" parent="nWAmCEe8qvfFnoDxP4SZ-8">
+        <mxCell id="nWAmCEe8qvfFnoDxP4SZ-30" value="Data&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;strokeWidth=1.5;arcSize=16;fillColor=#EBF8FF;perimeterSpacing=0;absoluteArcSize=1;" vertex="1" parent="nWAmCEe8qvfFnoDxP4SZ-8">
           <mxGeometry x="460" y="295" width="131" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nWAmCEe8qvfFnoDxP4SZ-31" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;strokeWidth=1.5;arcSize=16;fillColor=#EBF8FF;perimeterSpacing=0;absoluteArcSize=1;" vertex="1" parent="nWAmCEe8qvfFnoDxP4SZ-8">
@@ -98,11 +98,11 @@
             <mxPoint x="400" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nWAmCEe8qvfFnoDxP4SZ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nWAmCEe8qvfFnoDxP4SZ-8" source="nWAmCEe8qvfFnoDxP4SZ-34" target="nWAmCEe8qvfFnoDxP4SZ-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="nWAmCEe8qvfFnoDxP4SZ-34" value="" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=SAP_Integration_Suite_-_Cloud_Integration" vertex="1" parent="nWAmCEe8qvfFnoDxP4SZ-8">
           <mxGeometry x="40" y="470" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nWAmCEe8qvfFnoDxP4SZ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nWAmCEe8qvfFnoDxP4SZ-8" source="nWAmCEe8qvfFnoDxP4SZ-34" target="nWAmCEe8qvfFnoDxP4SZ-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nWAmCEe8qvfFnoDxP4SZ-35" value="App Router" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nWAmCEe8qvfFnoDxP4SZ-8">
           <mxGeometry x="35" y="530" width="60" height="30" as="geometry" />
@@ -124,6 +124,12 @@
         </mxCell>
         <mxCell id="nWAmCEe8qvfFnoDxP4SZ-39" value="" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=SAP_Destination_service" vertex="1" parent="nWAmCEe8qvfFnoDxP4SZ-8">
           <mxGeometry x="235" y="470" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nWAmCEe8qvfFnoDxP4SZ-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.02;entryY=0.507;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="nWAmCEe8qvfFnoDxP4SZ-8" source="nWAmCEe8qvfFnoDxP4SZ-34" target="nWAmCEe8qvfFnoDxP4SZ-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="420" as="sourcePoint" />
+            <mxPoint x="400" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nWAmCEe8qvfFnoDxP4SZ-11" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 112, 242); font-size: 16px;&quot;&gt;Solution Diagram Example: Work Zone&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1d2d3e;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="-50" y="-60" width="320" height="30" as="geometry" />
