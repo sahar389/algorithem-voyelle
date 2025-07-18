@@ -352,7 +352,7 @@
             <mxPoint x="1720" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rD9osVWLOUzOSUHCXmUc-97" value="&lt;span data-teams=&quot;true&quot;&gt;Archiv Link&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rD9osVWLOUzOSUHCXmUc-95">
+        <mxCell id="rD9osVWLOUzOSUHCXmUc-97" value="&lt;span data-teams=&quot;true&quot;&gt;via Archiv Link&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rD9osVWLOUzOSUHCXmUc-95">
           <mxGeometry x="-0.0695" relative="1" as="geometry">
             <mxPoint x="-1" y="3" as="offset" />
           </mxGeometry>
