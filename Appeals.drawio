@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.5">
   <diagram name="Page-1" id="sTsDj-NQOe8GlZASrzLT">
-    <mxGraphModel dx="1684" dy="2110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1053" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -352,14 +352,9 @@
             <mxPoint x="1720" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rD9osVWLOUzOSUHCXmUc-96" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rD9osVWLOUzOSUHCXmUc-95">
-          <mxGeometry x="0.0416" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rD9osVWLOUzOSUHCXmUc-97" value="&lt;span data-teams=&quot;true&quot;&gt;Archiv Link&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rD9osVWLOUzOSUHCXmUc-95">
           <mxGeometry x="-0.0695" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rD9osVWLOUzOSUHCXmUc-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeColor=#475E75;fontFamily=Helvetica;fontColor=default;targetPerimeterSpacing=15;endSize=4;startSize=4;endArrow=blockThin;endFill=1;strokeWidth=1.5;startArrow=none;startFill=0;entryX=0.592;entryY=0.009;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="rD9osVWLOUzOSUHCXmUc-91" target="nWAmCEe8qvfFnoDxP4SZ-20">
