@@ -235,16 +235,6 @@
         <mxCell id="rD9osVWLOUzOSUHCXmUc-105" value="" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=SAP_Authorization_and_Trust_Management_service" parent="nWAmCEe8qvfFnoDxP4SZ-8" vertex="1">
           <mxGeometry x="269.99899224806194" y="657.2882608695651" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rD9osVWLOUzOSUHCXmUc-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeColor=#188918;fontFamily=Helvetica;fontColor=default;targetPerimeterSpacing=15;endSize=4;startSize=4;endArrow=blockThin;endFill=1;strokeWidth=1.5;startArrow=none;startFill=0;entryX=0.007;entryY=0.704;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="nWAmCEe8qvfFnoDxP4SZ-8" source="rD9osVWLOUzOSUHCXmUc-109" target="9bQvScrndEZA9tTqRABL-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="464.88183720930186" y="534.5182219149974" as="targetPoint" />
-            <mxPoint x="322.01550387596893" y="883.9130434782608" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="449" y="535" />
-              <mxPoint x="500" y="535" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rD9osVWLOUzOSUHCXmUc-109" value="&lt;p style=&quot;line-height: 114%;&quot;&gt;&lt;font color=&quot;#188918&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;&quot;&gt;trust&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#188918;fillColor=#f5fae5;fontColor=#266f3a;strokeWidth=1.5;" parent="nWAmCEe8qvfFnoDxP4SZ-8" vertex="1">
           <mxGeometry x="402.433953488372" y="672.9900000000001" width="43.617519379844964" height="18.60869565217391" as="geometry" />
         </mxCell>
@@ -448,6 +438,16 @@
         </mxCell>
         <mxCell id="9bQvScrndEZA9tTqRABL-110" value="" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=SAP_Integration_Suite_-_SAP_Graph" vertex="1" parent="nWAmCEe8qvfFnoDxP4SZ-8">
           <mxGeometry x="52.629999999999995" y="567.3299999999999" width="39" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="9bQvScrndEZA9tTqRABL-112" value="" style="endArrow=blockThin;html=1;strokeColor=#188918;bendable=1;rounded=0;endFill=1;endSize=4;edgeStyle=entityRelationEdgeStyle;startArrow=blockThin;startFill=1;startSize=4;jumpStyle=none;jumpSize=0;targetPerimeterSpacing=15;strokeWidth=1.5;entryX=0.025;entryY=0.869;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="nWAmCEe8qvfFnoDxP4SZ-8" target="9bQvScrndEZA9tTqRABL-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="446.05" y="681.29" as="sourcePoint" />
+            <mxPoint x="566.05" y="681.29" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="680" />
+              <mxPoint x="500" y="620" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="rD9osVWLOUzOSUHCXmUc-44" value="&lt;b&gt;Foundation Models&amp;nbsp;&lt;/b&gt;&lt;div&gt;Partner hosted&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1720" y="880.9200000000001" width="150" height="80" as="geometry" />
