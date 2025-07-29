@@ -288,7 +288,7 @@
         <mxCell id="9bQvScrndEZA9tTqRABL-14" value="Native Odata communication&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;strokeWidth=1.5;arcSize=16;fillColor=#EBF8FF;perimeterSpacing=0;absoluteArcSize=1;" vertex="1" parent="nWAmCEe8qvfFnoDxP4SZ-8">
           <mxGeometry x="518.6007751937984" y="331.76" width="142.17503875968993" height="36.74" as="geometry" />
         </mxCell>
-        <mxCell id="9bQvScrndEZA9tTqRABL-15" value="Native Service Bindigs" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;strokeWidth=1.5;arcSize=16;fillColor=#EBF8FF;perimeterSpacing=0;absoluteArcSize=1;" vertex="1" parent="nWAmCEe8qvfFnoDxP4SZ-8">
+        <mxCell id="9bQvScrndEZA9tTqRABL-15" value="Native Service Bindigns" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;strokeWidth=1.5;arcSize=16;fillColor=#EBF8FF;perimeterSpacing=0;absoluteArcSize=1;" vertex="1" parent="nWAmCEe8qvfFnoDxP4SZ-8">
           <mxGeometry x="518.6007751937984" y="377.77" width="142.17503875968993" height="31.44" as="geometry" />
         </mxCell>
         <mxCell id="9bQvScrndEZA9tTqRABL-16" value="Role Management with BTP&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;strokeWidth=1.5;arcSize=16;fillColor=#EBF8FF;perimeterSpacing=0;absoluteArcSize=1;" vertex="1" parent="nWAmCEe8qvfFnoDxP4SZ-8">
