@@ -114,17 +114,6 @@
             <mxPoint x="180" y="603" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nWAmCEe8qvfFnoDxP4SZ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeColor=#475E75;fontFamily=Helvetica;fontColor=default;targetPerimeterSpacing=15;endSize=4;startSize=4;endArrow=blockThin;endFill=1;strokeWidth=1.5;startArrow=none;startFill=0;" parent="nWAmCEe8qvfFnoDxP4SZ-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="477.5207496653279" y="491.2977602108037" as="targetPoint" />
-            <mxPoint x="314.7295850066934" y="722.4967061923583" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="434" y="723" />
-              <mxPoint x="434" y="486" />
-              <mxPoint x="478" y="486" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nWAmCEe8qvfFnoDxP4SZ-44" value="SAP destination Service&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nWAmCEe8qvfFnoDxP4SZ-8" vertex="1">
           <mxGeometry x="173.6431191432396" y="637.4414756258235" width="65.11646586345381" height="28.89986824769433" as="geometry" />
         </mxCell>
