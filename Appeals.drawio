@@ -84,19 +84,16 @@
             <mxPoint x="434.1097724230254" y="534.6475625823451" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nWAmCEe8qvfFnoDxP4SZ-34" value="" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=SAP_Integration_Suite_-_Cloud_Integration" parent="nWAmCEe8qvfFnoDxP4SZ-8" vertex="1">
-          <mxGeometry x="50.877349397590365" y="560.0018708827405" width="39.34426229508197" height="39.34426229508197" as="geometry" />
-        </mxCell>
-        <mxCell id="nWAmCEe8qvfFnoDxP4SZ-35" value="App Router" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nWAmCEe8qvfFnoDxP4SZ-8" vertex="1">
+        <mxCell id="nWAmCEe8qvfFnoDxP4SZ-35" value="Application Router" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nWAmCEe8qvfFnoDxP4SZ-8" vertex="1">
           <mxGeometry x="37.99499268391395" y="606.3275955204214" width="65.11646586345381" height="43.34980237154149" as="geometry" />
         </mxCell>
         <mxCell id="nWAmCEe8qvfFnoDxP4SZ-37" value="Sap Build work zone&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nWAmCEe8qvfFnoDxP4SZ-8" vertex="1">
           <mxGeometry x="32.568232931726904" y="506.2422002635045" width="75.96921017402946" height="43.34980237154149" as="geometry" />
         </mxCell>
-        <mxCell id="nWAmCEe8qvfFnoDxP4SZ-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.48;entryY=0.08;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nWAmCEe8qvfFnoDxP4SZ-8" source="nWAmCEe8qvfFnoDxP4SZ-37" target="nWAmCEe8qvfFnoDxP4SZ-34" edge="1">
+        <mxCell id="nWAmCEe8qvfFnoDxP4SZ-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.48;entryY=0.08;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nWAmCEe8qvfFnoDxP4SZ-8" source="nWAmCEe8qvfFnoDxP4SZ-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="379.8460508701473" y="606.897233201581" as="sourcePoint" />
-            <mxPoint x="434.1097724230254" y="534.6475625823451" as="targetPoint" />
+            <mxPoint x="69.76259529922982" y="563.1494118663472" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nWAmCEe8qvfFnoDxP4SZ-39" value="" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=SAP_Destination_service" parent="nWAmCEe8qvfFnoDxP4SZ-8" vertex="1">
@@ -448,6 +445,9 @@
               <mxPoint x="460" y="375" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9bQvScrndEZA9tTqRABL-110" value="" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=SAP_Integration_Suite_-_SAP_Graph" vertex="1" parent="nWAmCEe8qvfFnoDxP4SZ-8">
+          <mxGeometry x="52.629999999999995" y="567.3299999999999" width="39" height="39" as="geometry" />
         </mxCell>
         <mxCell id="rD9osVWLOUzOSUHCXmUc-44" value="&lt;b&gt;Foundation Models&amp;nbsp;&lt;/b&gt;&lt;div&gt;Partner hosted&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1720" y="880.9200000000001" width="150" height="80" as="geometry" />
